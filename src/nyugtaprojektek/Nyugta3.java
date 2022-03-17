@@ -2,7 +2,7 @@ package nyugtaprojektek;
 /* Probléma:
 tüntessük el a kézzel beírt szóközöket,
 a huf ne tartalmazzon eurót
-a kedvezmény helyett legyen szervízdíj, amit hozzá kell adni a végössdzeghez
+a kedvezmény helyett legyen szervízdíj, amit hozzá kell adni a végösszeghez
 */
 public class Nyugta3 {
 

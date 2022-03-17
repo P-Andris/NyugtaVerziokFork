@@ -3,7 +3,7 @@ package nyugtaprojektek;
 a 3. tétel árát 650-ről átírtuk 1320-ra.
 Így szinte minden változott, mindenhez hozzá kell nyúlni
 Refaktorizálás:
-anmit egynél többször használunk, 
+amit egynél többször használunk, 
 azt kiszervezzük változóba és erre hivatkozunk
 */
 public class Nyugta2 {
